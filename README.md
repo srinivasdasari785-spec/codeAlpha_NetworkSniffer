@@ -1,17 +1,30 @@
-# Basic Network Sniffer (Windows)
+#  Basic Network Sniffer
 
-This project captures and analyzes network packets using Python and Scapy.
+A Python-based cybersecurity project developed as part of the **CodeAlpha Cyber Security Internship**.  
+This project captures and analyzes network packets in real time using the **Scapy** library.
 
-## Features
-- Captures live network traffic
-- Displays source and destination IP
-- Identifies protocols (TCP, UDP, ICMP)
-- Shows packet payload
+---
 
-## Requirements
-- Python
-- Scapy
-- Npcap (Windows)
+#  Project Objective
 
-## Run
-python sniffer.py
+The objective of this project is to understand how network communication works by capturing and analyzing packets flowing through a network.
+
+The project helps in learning:
+
+- Packet capturing
+- Network protocols
+- Source and destination addressing
+- Payload analysis
+- Basics of network monitoring
+
+---
+
+#  Technologies & Tools Used
+
+| Tool / Technology | Purpose |
+|------------------|---------|
+| Python | Programming Language |
+| Scapy | Packet Capturing & Analysis |
+| Npcap | Packet Capture Support for Windows |
+| PowerShell / CMD | Running the Project |
+| GitHub | Project Hosting |
